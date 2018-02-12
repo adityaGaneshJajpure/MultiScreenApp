@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageProject</string>
+    <string name="text_main_1">Numbers</string>
+    <string name="text_main_2">Family Members</string>
+    <string name="text_main_3">Colors</string>
+    <string name="text_main_4">Phrases</string>
+</resources>

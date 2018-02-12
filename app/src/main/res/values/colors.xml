@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="numbers_color">#FF4040</color>
+    <color name="family_color">#FF4440</color>
+    <color name="tan_bg">#FFF7DA</color>
+</resources>
